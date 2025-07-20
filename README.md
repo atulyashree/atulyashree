@@ -8,10 +8,10 @@
 ### 👨‍💻 About Me
 
 - 🎯 Passionate about building real-world, scalable software products  
-- 🌱 Currently exploring **Microservices**, **System Design**, and **DevOps**  
-- 💼 Previously interned at a fast-paced startup  
-- 🎓 Postgraduate from **DAIICT** | Software Developer @ **Accenture**  
-- 📍 Preparing for high-impact software roles & always learning by building
+- 🌱 Currently learning **Microservices**, **System Design**, and **DevOps**  
+- 🧠 Strong foundation in **Java**, **Spring Boot**, and **Modern Web Development**  
+- 💡 I believe in learning by building and solving real problems through code  
+- 📍 Actively seeking software engineering roles
 
 ---
 
@@ -35,24 +35,12 @@
 
 ---
 
-### 📌 Pinned Projects
-
-Here are some of the projects I’m proud of:
-
-- 🩺 **CareCircle** – Full-stack healthcare app to manage prescriptions, appointments, and alerts  
-- 💼 **Job Portal** – Built with Spring MVC, Thymeleaf, Spring Security, JPA, and MySQL  
-- 📚 **EduPlatform** – Learning platform using Next.js and Firebase  
-
-> Check them out in my pinned repos or explore my GitHub!
-
----
-
 ### 📫 Let’s Connect
 
-- 💌 Email: your.email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🧠 [GitHub](https://github.com/yourusername)
+- 💌 Email: atulyashrees@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/atulya-shree-sharma/)  
+- 🧠 [GitHub](https://github.com/atulyashree)
 
 ---
 
-_“The best way to learn is by building.”_ — Me 🙌
+_“The best way to learn is by building.”_🙌
